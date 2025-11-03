@@ -21,7 +21,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #205265;
+  background-color: #103442;
   color: #EDF6F9;
   padding: 10px 20px;
 }
@@ -106,7 +106,7 @@ footer {
   display: block;
   text-align: center;
   padding: 10px;
-  background-color: #205265;
+  background-color: #103442;
   color: #EDF6F9;
   margin-top: 10px;
 }
