@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#83C5BE;}
+	.st2{fill:#E2F6F9;}
+	.st3{fill:#FFDDD2;}
+	.st4{fill:#E29578;}
+	.st5{fill:url(#Nouvelle_nuance_de_motif_1);}
+</style>
+<pattern  width="379.5" height="245" patternUnits="userSpaceOnUse" id="Nouvelle_nuance_de_motif_1" viewBox="126.5 -367.5 379.5 245" style="overflow:visible;">
+	<g>
+		<rect x="126.5" y="-367.5" class="st0" width="379.5" height="245"/>
+		<g>
+			<rect x="379.5" y="-245" class="st1" width="253" height="245"/>
+			<rect x="379.5" y="-245" class="st2" width="213" height="201.33"/>
+			<rect x="379.5" y="-245" class="st3" width="173" height="157.67"/>
+			<rect x="379.5" y="-245" class="st4" width="133" height="114"/>
+		</g>
+		<g>
+			<rect y="-245" class="st1" width="253" height="245"/>
+			<rect x="0" y="-245" class="st2" width="213" height="201.33"/>
+			<rect x="0" y="-245" class="st3" width="173" height="157.67"/>
+			<rect y="-245" class="st4" width="133" height="114"/>
+		</g>
+		<g>
+			<rect x="379.5" y="-490" class="st1" width="253" height="245"/>
+			<rect x="379.5" y="-490" class="st2" width="213" height="201.33"/>
+			<rect x="379.5" y="-490" class="st3" width="173" height="157.67"/>
+		</g>
+		<g>
+			<rect x="189.75" y="-367.5" class="st1" width="253" height="245"/>
+			<rect x="189.75" y="-367.5" class="st2" width="213" height="201.33"/>
+			<rect x="189.75" y="-367.5" class="st3" width="173" height="157.67"/>
+			<rect x="189.75" y="-367.5" class="st4" width="133" height="114"/>
+		</g>
+		<g>
+			<rect y="-490" class="st1" width="253" height="245"/>
+			<rect x="0" y="-490" class="st2" width="213" height="201.33"/>
+			<rect x="0" y="-490" class="st3" width="173" height="157.67"/>
+		</g>
+	</g>
+</pattern>
+<rect class="st5" width="1366" height="768"/>
+</svg>
