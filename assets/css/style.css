@@ -21,7 +21,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #03222e;
+  background-color: #642E16;
   color: #EDF6F9;
   padding: 10px 20px;
 }
@@ -74,6 +74,9 @@ nav ul li a {
   font-size: 18px;
   font-weight: 500;
 }
+.about a{
+  color: #0e4f95;
+}
 
 /* Image section */
 .photo-container {
@@ -106,7 +109,7 @@ footer {
   display: block;
   text-align: center;
   padding: 10px;
-  background-color: #103442;
+  background-color: #642E16;
   color: #fff;
   margin-top: 10px;
 }
