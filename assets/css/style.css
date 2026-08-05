@@ -91,6 +91,15 @@ nav ul li a {
 .about p{
   text-align: justify;
 }
+
+.about{
+  padding: 25px;
+}
+
+.about-title{
+  color:#642E16;
+}
+
 .photo-container img {
   width: 100%;
   border-radius: 10px;
